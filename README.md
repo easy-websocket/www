@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/qddt69/www/master/t/fq1.jpg"><br>
-<p><strong><a href="https://github.com/qddt69/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/qddt69/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a> 本平台用海外浏览器打开更顺利,推荐Chrome</strong></p>
+<p><strong><a href="https://github.com/qddt69/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台投稿</a>  <a href="https://github.com/qddt69/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>，推荐用Chrome浏览器打开本平台</strong></p>
 <p><strong>可向 fr45tr@gmail.com 索取推广网址，本平台固定短网址 https://git.io/*8</strong></p>
 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
