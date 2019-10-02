@@ -9,7 +9,7 @@
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/qddt69/www/master/t/fq1.jpg"><br>
 <p><a href="https://github.com/qddt69/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台安全投稿</a>  <a href="https://github.com/qddt69/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a> 本平台用海外浏览器打开更顺利,推荐Chrome</p>
-<p><strong>可向 fr45tr@gmail.com 索取推广网址。本平台固定短网址 git.io/*8</strong></p>
+<p><strong>可向 fr45tr@gmail.com 索取推广网址。本平台固定短网址 https://git.io/*8</strong></p>
 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
