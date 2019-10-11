@@ -12,7 +12,7 @@
 <p><strong>可向 fr45tr@gmail.com 索取推广网址，推荐用Chrome浏览器打开本平台</strong></p>
 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
-<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
+<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/woywz155/www/master/t/sz.jpg"><br>
 <p><a href="https://raw.githubusercontent.com/oGate2/Up/master/oGate.apk?fldfh2">网门（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk?raw=true">无界浏览（手机版）</a></p>
@@ -20,7 +20,7 @@
 <p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://raw.githubusercontent.com/woywz155/www/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
 <p><a href="https://raw.githubusercontent.com/woywz155/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
-<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
+<p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 <p><a target="_blank" href="https://github.com/woywz155/djy/blob/master/gb/nsc413.md?flntdtv#1">大纪元大陆时事</a></p>
